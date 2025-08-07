@@ -1,6 +1,6 @@
 # archivo de configuración para GitHub Actions
 # nombre del workflow
-name: DevOpsjlchavezp
+name: DevOpsjlchavezpl
 
 # controles cuando el workflow corra
 on:
